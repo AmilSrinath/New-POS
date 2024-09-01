@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LzNIg7n_GcMWE87P90xB-1" value="&lt;font face=&quot;Courier New&quot;&gt;Item&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="700" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzNIg7n_GcMWE87P90xB-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.196;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LzNIg7n_GcMWE87P90xB-12" target="LzNIg7n_GcMWE87P90xB-1">
           <mxGeometry relative="1" as="geometry" />
@@ -36,6 +36,14 @@
         </mxCell>
         <mxCell id="LzNIg7n_GcMWE87P90xB-19" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;font size=&quot;1&quot;&gt;Purchase_Price&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="840" y="480" width="88" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LzNIg7n_GcMWE87P90xB-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1.008;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LzNIg7n_GcMWE87P90xB-21" target="LzNIg7n_GcMWE87P90xB-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzNIg7n_GcMWE87P90xB-21" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;font size=&quot;1&quot;&gt;Stock_Available&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="440" width="100" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
