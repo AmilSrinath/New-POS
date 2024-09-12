@@ -407,6 +407,15 @@
             <mxPoint x="656" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="e2K8VYBkNFKkJur3VIZN-5" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;u&gt;Category_ID&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1030" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e2K8VYBkNFKkJur3VIZN-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" source="e2K8VYBkNFKkJur3VIZN-5" parent="1" target="e2K8VYBkNFKkJur3VIZN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="847.5" y="1205" as="targetPoint" />
+            <mxPoint x="526.94" y="861.65" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
