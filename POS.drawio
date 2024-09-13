@@ -442,6 +442,15 @@
             <mxPoint x="1038" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D9rBGDjwCrhuu7i3BuK6-5" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;u&gt;Badge_ID&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="600" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D9rBGDjwCrhuu7i3BuK6-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.118;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="D9rBGDjwCrhuu7i3BuK6-5" parent="1" target="D9rBGDjwCrhuu7i3BuK6-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="690" as="targetPoint" />
+            <mxPoint x="1202" y="767.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
